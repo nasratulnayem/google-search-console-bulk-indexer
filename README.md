@@ -1,4 +1,4 @@
-# GSC Bulk Indexer
+# Google Search Console Bulk Indexer
 
 <p align="center">
   <img src="icons/icon-128.png" alt="GSC Bulk Indexer" width="96"><br>
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nasratulnayem/gsc-bulk-indexer/releases"><img src="https://img.shields.io/github/v/release/nasratulnayem/gsc-bulk-indexer?style=flat&label=release&color=ff5fc7"></a>
-  <a href="https://github.com/nasratulnayem/gsc-bulk-indexer"><img src="https://img.shields.io/github/stars/nasratulnayem/gsc-bulk-indexer?style=flat&label=stars&color=22eaff"></a>
-  <a href="https://github.com/nasratulnayem/gsc-bulk-indexer/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-ffb000?style=flat"></a>
+  <a href="https://github.com/nasratulnayem/google-search-console-bulk-indexer/releases"><img src="https://img.shields.io/github/v/release/nasratulnayem/google-search-console-bulk-indexer?style=flat&label=release&color=ff5fc7"></a>
+  <a href="https://github.com/nasratulnayem/google-search-console-bulk-indexer"><img src="https://img.shields.io/github/stars/nasratulnayem/google-search-console-bulk-indexer?style=flat&label=stars&color=22eaff"></a>
+  <a href="https://github.com/nasratulnayem/google-search-console-bulk-indexer/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-ffb000?style=flat"></a>
 </p>
 
 ---
@@ -78,7 +78,7 @@ If you manage SEO for a website, you know the pain of manually inspecting each U
 
 ### Option 1: Download & load (easiest)
 
-1. Go to the **[Releases page](https://github.com/nasratulnayem/gsc-bulk-indexer/releases)**
+1. Go to the **[Releases page](https://github.com/nasratulnayem/google-search-console-bulk-indexer/releases)**
 2. Download the latest `gsc-bulk-indexer-v*.zip`
 3. Unzip to a folder on your computer
 4. Open `brave://extensions` or `chrome://extensions`
@@ -88,7 +88,7 @@ If you manage SEO for a website, you know the pain of manually inspecting each U
 ### Option 2: Clone from source
 
 ```bash
-git clone https://github.com/nasratulnayem/gsc-bulk-indexer.git
+git clone https://github.com/nasratulnayem/google-search-console-bulk-indexer.git
 # Then: brave://extensions → Developer mode → Load unpacked
 ```
 
@@ -199,8 +199,8 @@ gsc-bulk-indexer/
 
 ## Links
 
-- **GitHub**: [github.com/nasratulnayem/gsc-bulk-indexer](https://github.com/nasratulnayem/gsc-bulk-indexer)
-- **Download**: [Releases page](https://github.com/nasratulnayem/gsc-bulk-indexer/releases)
+- **GitHub**: [github.com/nasratulnayem/google-search-console-bulk-indexer](https://github.com/nasratulnayem/google-search-console-bulk-indexer)
+- **Download**: [Releases page](https://github.com/nasratulnayem/google-search-console-bulk-indexer/releases)
 - **Author**: [Nasratul nayem](https://github.com/nasratulnayem)
 
 ---
