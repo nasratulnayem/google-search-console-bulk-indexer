@@ -22,3 +22,5 @@ When you click EXEC, URLs are sent to a content script in your Search Console ta
 ## Contact
 
 Nasratul nayem
+
+<!-- Reference note for PRIVACY and options behavior -->
