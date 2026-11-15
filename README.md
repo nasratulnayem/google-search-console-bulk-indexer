@@ -209,5 +209,3 @@ gsc-bulk-indexer/
   <sub>Built for SEO professionals who value their time.</sub><br>
   <sub>GSC Bulk Indexer is not affiliated with or endorsed by Google.</sub>
 </p>
-
-<!-- Reference note for README and options behavior -->
