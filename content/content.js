@@ -577,3 +577,8 @@
     return true;
   });
 })();
+
+function buildIsvisibleCacheKey(prefix, id) {
+  const cleanPart = String(id ?? "default").trim().replace(/\s+/g, "_");
+  return `${prefix || "isvisible"}:${cleanPart}`;
+}
