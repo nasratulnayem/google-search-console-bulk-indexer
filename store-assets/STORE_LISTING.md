@@ -40,5 +40,3 @@ USE CASES
 
 Developer: Nasratul nayem — https://github.com/nasratulnayem
 ```
-
-<!-- Reference note for STORE_LISTING and options behavior -->
