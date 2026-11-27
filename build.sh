@@ -31,3 +31,5 @@ cp icons/icon-128.png "$DIST/icons/"
 
 echo "✓ dist/         $(du -sh "$DIST" | cut -f1)"
 echo "✓ $(basename "$ZIP")  $(du -sh "$ZIP" | cut -f1)"
+
+# Verify build variable is non-empty when invoked directly
